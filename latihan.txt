@@ -2,4 +2,4 @@ Resume Parsing :
 1. membuat data latihnya
 2. membuat ccodingannya
 3. membuat scannya
-4. melihat outputnya
+4. melihat outputnya.
